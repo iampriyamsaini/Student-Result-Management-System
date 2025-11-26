@@ -103,9 +103,9 @@ The application should open in your browser, typically at `http://localhost:3000
 
 ---
 
-## 🙌 Author
+## 🧑‍💻 Author
+    Priyam Saini
 
 Priyam Saini
 📌 B.Tech C.S.E(AIML & IoT) Student
-📌 Learning React & Full-Stack Development
 
