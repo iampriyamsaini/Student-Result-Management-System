@@ -1,0 +1,81 @@
+{
+  "students": [
+    {
+      "name": "Popatlal ",
+      "section": "C",
+      "marks": 74,
+      "grade": "A",
+      "id": "133b"
+    },
+    {
+      "name": "Natu Kaka",
+      "section": "D",
+      "marks": 71,
+      "grade": "A",
+      "id": "69d4"
+    },
+    {
+      "name": "Babita ji",
+      "section": "B",
+      "marks": 81,
+      "grade": "A+",
+      "id": "593c"
+    },
+    {
+      "name": "Tappu Gada",
+      "section": "B",
+      "marks": 67,
+      "grade": "B",
+      "id": "fbca"
+    },
+    {
+      "name": "Jethalal Gada",
+      "section": "E",
+      "marks": 65,
+      "grade": "B+",
+      "id": "4d78"
+    },
+    {
+      "name": "Aatmaram Tukaram Bhide",
+      "section": "B",
+      "marks": 79,
+      "grade": "A",
+      "id": "c6d4"
+    },
+    {
+      "name": "Champaklal Gada",
+      "section": "E",
+      "marks": 56,
+      "grade": "B",
+      "id": "9d2e"
+    },
+    {
+      "name": "Sonu Bhide",
+      "section": "A",
+      "marks": 91,
+      "grade": "O",
+      "id": "e1ae"
+    },
+    {
+      "name": "Gogi ",
+      "section": "C",
+      "marks": 69,
+      "grade": "B+",
+      "id": "0dd9"
+    },
+    {
+      "id": "f04b",
+      "name": "Goli",
+      "section": "C",
+      "marks": 78,
+      "grade": "A"
+    },
+    {
+      "id": "62bc",
+      "name": "Taarak Mehta",
+      "section": "B",
+      "marks": 77,
+      "grade": "A"
+    }
+  ]
+}
