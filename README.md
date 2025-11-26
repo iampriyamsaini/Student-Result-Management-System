@@ -104,8 +104,6 @@ The application should open in your browser, typically at `http://localhost:3000
 ---
 
 ## 🧑‍💻 Author
-    Priyam Saini
-
-Priyam Saini
-📌 B.Tech C.S.E(AIML & IoT) Student
+Priyam Saini   
+  B.Tech C.S.E(AIML & IoT) Student
 
